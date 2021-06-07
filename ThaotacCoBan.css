@@ -1,0 +1,23 @@
+*{margin: 0;padding: 0}
+h4{color: springgreen}
+span{font-style: italic}
+p{font-size: 30px}
+table td,th{border:1px solid}
+table{border-collapse: collapse;width:40%;text-align: center;}
+table th{height: 50px;}
+.bangthongtin{margin: 50px 0 0 20px}
+.bangthongtin caption{margin-bottom: 20px;font-size: 30px;font-weight: bold}
+table tr,td{padding: 20px;}
+.KhoiCha{width: 400px;height: 200px;margin:20px 0 0 20px;position: relative;border: 1px solid red}
+.KhoiCha h3{text-align: center; padding-top:10px;}
+.KhoiCon{width: 100%;}
+.KhoiCon p{text-align: center;}
+.Po_Fixed{width: 100%;height: 300px;background: aqua;margin-top: 10px;}
+.ThongSoFixed{width: 25%;float: left;height: 100%;}
+.Po_Fixed_1 {background: darkred;}
+.Po_Fixed_2 {background: yellowgreen;}
+.Po_Fixed_3 {background: deeppink;}
+.Po_Fixed_4 {background: black;}
+.ThongSoFixed p{color: white;}
+.HinhNen {margin-top: 10px; width: 100%;height: 600px;}
+.HinhNen {background-image: url("hinhanh2.PNG");background-repeat: repeat-x;background-attachment: fixed;}
